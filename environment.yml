@@ -1,0 +1,11 @@
+name: customer_segmentation_env
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pycaret
