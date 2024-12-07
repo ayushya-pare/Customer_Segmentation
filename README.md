@@ -1,8 +1,20 @@
 # Project - Telecom Customer Segmentation and Churn Prediction
+[This project uses Data analysis, clustering, and machine learning for customer segmentation and predict which customers are likely to churn]. Key features include EDA, clustering, and machine learninig.
 
-There is data available on 5,986 customers.
+### Methods Used
+* Exploratory Data Analysis
+* Data Visualization
+* Machine Learning
 
-Which customers are likely to churn? What are the attributes that make you think so?
+### Technologies
+* Python
+* Pandas
+* Jupyter
+* scikit-learn
+* Pycaret
+* Docker
+* Flask
+
 
 ## The features:
 - customerID: Customer ID
