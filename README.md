@@ -7,13 +7,11 @@ This project uses Data analysis, clustering, and machine learning for customer s
 * Machine Learning
 
 ### Technologies
-* Python
-* Pandas
-* Jupyter
-* scikit-learn
-* Pycaret
-* Docker
-* Flask
+1. EDA - Pandas, numpy
+2. Visualization - Matplotlib, seaborn 
+3. Clustering / Segmentation - K-means
+4. Machine learning - Modelling (PyCaret), Hyperparameter Tuning, Evaluation (Shapley), MLFlow
+5. Deployment - Docker, Flask, Streamlit
 
 
 ## The features:
